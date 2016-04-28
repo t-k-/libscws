@@ -16,4 +16,4 @@ b.out: $(OBJS)
 
 clean:
 	rm -f $(OBJS)
-	rm -f a.out
+	rm -f *.out
